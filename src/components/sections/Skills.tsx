@@ -14,9 +14,9 @@ const icons: Record<string, typeof Monitor> = {
 
 const cardColors: Record<string, { accent: string; hover: string }> = {
   frontend: { accent: 'bg-primary/[0.08] text-primary', hover: 'hover:border-primary/20' },
-  backend: { accent: 'bg-emerald-500/[0.08] text-emerald-600', hover: 'hover:border-emerald-500/20' },
-  tools: { accent: 'bg-amber-500/[0.08] text-amber-600', hover: 'hover:border-amber-500/20' },
-  ai: { accent: 'bg-rose-500/[0.08] text-rose-500', hover: 'hover:border-rose-500/20' },
+  backend: { accent: 'bg-sky-500/[0.08] text-sky-600', hover: 'hover:border-sky-500/20' },
+  tools: { accent: 'bg-slate-500/[0.08] text-slate-600', hover: 'hover:border-slate-500/20' },
+  ai: { accent: 'bg-accent/[0.08] text-accent', hover: 'hover:border-accent/20' },
 };
 
 export default function Skills() {

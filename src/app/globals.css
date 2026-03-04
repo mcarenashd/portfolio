@@ -5,12 +5,12 @@
   --color-surface: #FFFFFF;
   --color-surface-alt: #F5F5F7;
   --color-surface-elevated: #FFFFFF;
-  --color-primary: #6356C7;
-  --color-primary-light: #EEEDFA;
-  --color-primary-dark: #4F43B0;
-  --color-primary-muted: #9B93D7;
-  --color-accent: #E8945A;
-  --color-accent-light: #FDF3EB;
+  --color-primary: #0D9488;
+  --color-primary-light: #E6F7F5;
+  --color-primary-dark: #0A7A70;
+  --color-primary-muted: #5EADA6;
+  --color-accent: #3B82F6;
+  --color-accent-light: #EBF2FF;
   --color-text-primary: #1D1D1F;
   --color-text-secondary: #6E6E73;
   --color-text-tertiary: #AEAEB2;
@@ -49,7 +49,7 @@ body {
 
 /* Gradient text - richer, more visible */
 .gradient-text {
-  background: linear-gradient(135deg, #7B6DD8 0%, #C47A42 50%, #D4894E 100%);
+  background: linear-gradient(135deg, #0D9488 0%, #3B82F6 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
