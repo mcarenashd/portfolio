@@ -24,7 +24,7 @@ export const projects: Project[] = [
     tags: ['React', 'Node.js', 'Express', 'MongoDB', 'Tailwind'],
     category: 'fullstack',
     liveUrl: 'https://bdo-client-hzui.onrender.com/',
-    image: '/images/Screenshot 2026-03-04 at 21.31.26.png',
+    image: '/images/bdo.png',
     featured: true,
   },
   {
@@ -37,7 +37,7 @@ export const projects: Project[] = [
     tags: ['React', 'Tailwind', 'Responsive Design', 'SEO'],
     category: 'websites',
     liveUrl: 'https://huvantia.com/',
-    image: '/images/Screenshot 2026-03-04 at 21.30.03.png',
+    image: '/images/huvantia.png',
   },
   {
     id: 'donovan',
@@ -49,7 +49,7 @@ export const projects: Project[] = [
     tags: ['React', 'CSS3', 'Responsive Design'],
     category: 'websites',
     liveUrl: 'https://www.consultoresdonovan.co/',
-    image: '/images/Screenshot 2026-03-04 at 21.29.29.png',
+    image: '/images/donovan.png',
   },
   {
     id: 'ingecon',
@@ -61,7 +61,7 @@ export const projects: Project[] = [
     tags: ['React 19', 'TypeScript', 'Tailwind'],
     category: 'websites',
     liveUrl: 'https://ingecon-site.vercel.app/',
-    image: '/images/Screenshot 2026-03-04 at 21.30.44.png',
+    image: '/images/ingecon.png',
   },
   {
     id: 'cine-verano',
