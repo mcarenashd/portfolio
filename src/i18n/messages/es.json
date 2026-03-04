@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Camila Arenas",
+    "title": "Fullstack Developer & AI Specialist",
+    "description": "De la ingeniería civil al código: construyo experiencias digitales con la misma precisión con la que se levanta un edificio. Especializada en desarrollo web moderno e inteligencia artificial.",
+    "cta_projects": "Ver Proyectos",
+    "cta_contact": "Contáctame"
+  },
+  "about": {
+    "label": "Sobre mí",
+    "title": "De planos a píxeles",
+    "description_1": "Mi camino hacia la tecnología comenzó en la ingeniería civil, donde aprendí a gestionar proyectos complejos, resolver problemas bajo presión y entregar resultados con precisión. Esa mentalidad es la que traigo a cada línea de código.",
+    "description_2": "Hoy me especializo en desarrollo fullstack con un enfoque creciente en inteligencia artificial. Creo que la combinación de pensamiento ingenieril y tecnología moderna es la clave para construir productos digitales que realmente impacten.",
+    "description_3": "Formada en Factoria F5, donde consolidé mis habilidades técnicas a través de proyectos reales con metodologías ágiles.",
+    "stat_projects": "Proyectos entregados",
+    "stat_tech": "Tecnologías",
+    "stat_experience": "Años en tech"
+  },
+  "skills": {
+    "label": "Habilidades",
+    "title": "Mi stack tecnológico",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Herramientas",
+    "ai": "AI & Data"
+  },
+  "experience": {
+    "label": "Experiencia",
+    "title": "Mi trayectoria",
+    "present": "Presente"
+  },
+  "projects": {
+    "label": "Proyectos",
+    "title": "Algunos de mis proyectos",
+    "filter_all": "Todos",
+    "filter_fullstack": "Fullstack",
+    "filter_websites": "Websites",
+    "filter_learning": "Aprendizaje",
+    "view_live": "Ver sitio",
+    "view_code": "Ver código",
+    "featured": "Destacado"
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Trabajemos juntos",
+    "description": "¿Tienes un proyecto en mente? Me encantaría escucharlo. Envíame un mensaje y te responderé lo antes posible.",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "send": "Enviar mensaje",
+    "info_title": "Información de contacto",
+    "location": "Colombia"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Camila Arenas",
+    "title": "Fullstack Developer & AI Specialist",
+    "description": "From civil engineering to code: I build digital experiences with the same precision used to raise a building. Specialized in modern web development and artificial intelligence.",
+    "cta_projects": "View Projects",
+    "cta_contact": "Contact Me"
+  },
+  "about": {
+    "label": "About me",
+    "title": "From blueprints to pixels",
+    "description_1": "My journey into tech started in civil engineering, where I learned to manage complex projects, solve problems under pressure, and deliver results with precision. That mindset is what I bring to every line of code.",
+    "description_2": "Today I specialize in fullstack development with a growing focus on artificial intelligence. I believe the combination of engineering thinking and modern technology is the key to building digital products that truly make an impact.",
+    "description_3": "Trained at Factoria F5, where I consolidated my technical skills through real-world projects using agile methodologies.",
+    "stat_projects": "Projects delivered",
+    "stat_tech": "Technologies",
+    "stat_experience": "Years in tech"
+  },
+  "skills": {
+    "label": "Skills",
+    "title": "My tech stack",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Tools",
+    "ai": "AI & Data"
+  },
+  "experience": {
+    "label": "Experience",
+    "title": "My journey",
+    "present": "Present"
+  },
+  "projects": {
+    "label": "Projects",
+    "title": "Some of my projects",
+    "filter_all": "All",
+    "filter_fullstack": "Fullstack",
+    "filter_websites": "Websites",
+    "filter_learning": "Learning",
+    "view_live": "Live site",
+    "view_code": "View code",
+    "featured": "Featured"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's work together",
+    "description": "Have a project in mind? I'd love to hear about it. Send me a message and I'll get back to you as soon as possible.",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send message",
+    "info_title": "Contact information",
+    "location": "Colombia"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
